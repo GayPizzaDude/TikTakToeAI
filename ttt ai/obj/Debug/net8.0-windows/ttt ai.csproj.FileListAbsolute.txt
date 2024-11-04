@@ -1,0 +1,21 @@
+D:\platformyNaPG\learning\ttt ai\ttt ai\bin\Debug\net8.0-windows\ttt ai.exe
+D:\platformyNaPG\learning\ttt ai\ttt ai\bin\Debug\net8.0-windows\ttt ai.deps.json
+D:\platformyNaPG\learning\ttt ai\ttt ai\bin\Debug\net8.0-windows\ttt ai.runtimeconfig.json
+D:\platformyNaPG\learning\ttt ai\ttt ai\bin\Debug\net8.0-windows\ttt ai.dll
+D:\platformyNaPG\learning\ttt ai\ttt ai\bin\Debug\net8.0-windows\ttt ai.pdb
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\App.g.cs
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai_MarkupCompile.cache
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai_MarkupCompile.lref
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\MainWindow.baml
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.g.resources
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.GeneratedMSBuildEditorConfig.editorconfig
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.AssemblyInfoInputs.cache
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.AssemblyInfo.cs
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.csproj.CoreCompileInputs.cache
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.dll
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\refint\ttt ai.dll
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.pdb
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.genruntimeconfig.cache
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ref\ttt ai.dll
+D:\platformyNaPG\learning\ttt ai\ttt ai\obj\Debug\net8.0-windows\ttt ai.csproj.AssemblyReference.cache

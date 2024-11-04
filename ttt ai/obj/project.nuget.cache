@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3lxIFgrcosdfEAUjlGjXdCHYXssvGcAdcRxBDh7ViddN4RRZFzeO9epsUfOIqUKWNfj88VKTQ4aQ/K5XKyccQ==",
+  "success": true,
+  "projectFilePath": "D:\\platformyNaPG\\learning\\ttt ai\\ttt ai\\ttt ai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafal\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
